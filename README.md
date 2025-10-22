@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Online Resume Using HTML</b>
-  - (https://mohamad8718.github.io/Capstone-Project-1/)
+  - (https://github.com/Mohamad8718/Capstone-Project-1)
 - <b>Personal Website Using HTML And CSS</b>
-  - (https://mohamad8718.github.io/Capstone-Project-2/) 
+  - (https://github.com/Mohamad8718/Capstone-Project-2) 
 
